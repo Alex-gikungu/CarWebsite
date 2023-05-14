@@ -149,41 +149,51 @@ ul li a{
     display: flex;
     flex-direction:row;
     justify-content: right;
-    padding-bottom: 20px;
+    padding-bottom: 10px;
     padding-top:100px;
     clear: left;
+    padding: 30px;
 }
  .client img{
     float: left;
     width:500px;
     height:auto;
-    padding-right:100px;
+    padding-right:0px;
+    padding-left:30px;
+    padding-top: 20px;
 
 }
  .client p,h3{
     clear: left;
     text-align: center;
     width: 300px;
+    padding-left:0px;
 }
 .cli{
     float: left;
 }
+
+.fb{
+    display: flex;
+    float: left;
+    padding-top: 100px;
+
+}*/
+
 .store{
-    margin:0px;
-    height: 200px;
-    background-color:whitesmoke;
-    padding-left:500px;
-    align-content: center;
-    padding-top:10px ;
-    padding-bottom:550px;
+    display: flex;
+    margin:20px;
+    background-color: blueviolet;
+    height: 300px;
+    padding-top: 40px;
 }
 
 .mos img{
     padding-top:0px;
     padding-bottom:550px;
     float:right;
-    clear: right;
-    padding-right:opx;
+    clear:left;
+    padding-right:4px;
     width:200px;
     display: flex;
 }
@@ -195,6 +205,7 @@ ul li a{
     display: flex;
     padding-bottom:0px;
     padding-top:60px;
+    padding-right:0px;
 }
 .pg img{
     display: flex;
@@ -203,6 +214,7 @@ ul li a{
     width:300px;
     padding-top: 20px;
     padding-bottom:20px;
+    padding-right:500px;
 }
 /*
 .gh{

@@ -70,6 +70,7 @@ ul li a{
  .image p{ 
     padding: 10px;
     padding-left:20px;
+    padding-bottom:50px;
     justify-content: space-around;
     text-align:justify;
 }
@@ -90,7 +91,6 @@ ul li a{
     margin-left: 20px;
     font-size: 18px;
     border-radius: 5px;
-    padding:;
 }
 .ct a{
     color: rgb(231, 101, 15);
@@ -122,10 +122,10 @@ ul li a{
 .images{
     float:left;
     clear: right;
-    padding-top:1px;
+    padding-top:0px;
     padding:100px;
-    height:200px;
-    padding-bottom:20px;
+    height:20px;
+    padding-bottom:300px;
 }
 .images img{
     padding-right:10px;
@@ -140,26 +140,35 @@ ul li a{
 }
 
 .images p{
-    padding-top: 30px;
+    padding-top:40px;
     padding-bottom:100px;
-}/*
+}
+
+
 .client{
     display: flex;
     flex-direction:row;
     justify-content: right;
     padding-bottom: 20px;
-}
-img{
-    float: left;
-}
-p{
+    padding-top:100px;
     clear: left;
+}
+ .client img{
+    float: left;
+    width:500px;
+    height:auto;
+    padding-right:100px;
+
+}
+ .client p,h3{
+    clear: left;
+    text-align: center;
     width: 300px;
 }
 .cli{
     float: left;
 }
-
+/*
 .store{
     margin:0px;
     height: 200px;

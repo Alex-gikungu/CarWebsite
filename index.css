@@ -4,6 +4,13 @@
     color: black;
 }
 
+@media (max-width:500px){
+    body{
+        font-size:14px;
+    }
+}
+    
+
 .main{
     width: 100px;
     background-color:transparent;

@@ -193,7 +193,7 @@ ul li a{
     padding-bottom:0px;
     float:right;
     padding-right:4px;
-    width:400px;
+    width:300px;
 }
 .mages img{
     width:150px;
@@ -218,32 +218,10 @@ ul li a{
 .gh{
     padding-top: 500px;
 }
-.pro{
-    padding-top: 200px;
-    float:left;
-    padding-left: 70px;
-}
+footer{
+    display: flex;
+    width: 20px;
+    height: 300px;
 
-.two{
 
-    padding-top:200px ;
-    padding-left:00px;
 }
-.three{
-    float:right;
-    padding-top: 200px;
-    padding-left: 00px;
-}*/
-.gh{
-    padding-top: 300px;
-    display:flex;
-    padding: 150px;
-    float: right;
-}*/
-/*.four{
-    float: right;
-    padding-top: 200px;
-    clear:right;
-}
-
-gh

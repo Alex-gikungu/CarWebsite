@@ -9,6 +9,15 @@
     background-color:transparent;
 }
 
+@media only screen and (min-width:500px){
+    body{
+        font-size: 20px;
+        height: auto;
+    }
+  }
+  
+
+
 .navbar{
     width: 120px;
     height: 75px;

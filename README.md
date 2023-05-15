@@ -17,13 +17,13 @@
     After cloning,open the project vs and modify it to your link.
  ## live link 
   - https://alex-gikungu.github.io/CarWebsite/
- # Authotrs information
+ # Authors information
  slack Profile-Alex-gikungu
   email:alexigikungu.012@gmail.com
    # license 
    The MIT license (MIT)
-    
-Copyright (c) 2023 Alexi-gikungu
+   
+Copyright (c) 2023 Alex Gikungu
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the

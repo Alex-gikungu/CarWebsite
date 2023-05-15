@@ -3,12 +3,11 @@
     padding: 0;
     color: black;
     text-decoration: none;
-    text-size-adjust:inherit;
 }
 
 .main{
-    width: 1000px;
-    background-color: white;
+    width: 100px;
+    background-color: rgb(231, 227, 227);
 }
 
 .navbar{
@@ -31,21 +30,21 @@
     width: 400px;
     float: left;
 }
-ul{
+.home ul{
     float: left;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
-ul li{
+.home ul li{
     list-style: none;
     margin-left: 62px;
     margin-top: 27px;
     
 }
 
-ul li a{
+.home ul li a{
     text-decoration: none;
     padding: 40px;
     color: black;
@@ -164,7 +163,7 @@ ul li a{
 
 }
  .client p,h3{
-    clear: left;
+    clear: left;    
     text-align: center;
     width: 300px;
     padding-left:0px;
@@ -172,56 +171,55 @@ ul li a{
 .cli{
     float: left;
 }
-
-.fb{
+.logos{
+    background-color:white;
+    width:auto;
+    height:500px;
     display: flex;
-    float: left;
-    padding-top: 100px;
-
+}
+.store h3{
+    text-align:center;
+    padding-bottom:1px;
+    display: flex;
+    float: right;
+}
+.store p{
+    padding-top: 10px;
+}
+.two{
+    padding-top:100px;
+    padding-bottom:0px;
+    padding-right:150px;
+    float:right;
 }*/
-
-.store{
-    display: flex;
-    margin:20px;
-    background-color: blueviolet;
-    height:30px;
-    padding-top: 40px;
+.three{
+    padding-left:200px;
 }
-
-.mos img{
-    padding-top:0px;
-    padding-bottom:0px;
+.tb{
+    padding-left:2px;
     float:right;
-    padding-right:4px;
-    width:300px;
+    padding-top: 200px;
 }
-.mages img{
-    width:150px;
-    height:200;
-    float:right;
-    clear:left;
+.alex{
+    padding-top:300px;
+    padding-bottom:100px;
     display: flex;
-    padding-bottom:0px;
-    padding-top:60px;
-    padding-right:0px;
+    text-align:center;
+    list-style: none;
 }
-.pg img{
-    display: flex;
-    float:right;
-    clear: left;
-    width:300px;
-    padding-top:20px;
-    padding-bottom:20px;
-    padding-right:500px;
+.ex{
+    padding-left:100px;
+}
+.dd{
+    padding-left:100px;
+    padding-right: 0px;
+}
+.lex{
+    padding-left: 300px;
+}
+.lexa{
+    padding-left: 200px;
 }
 
-.gh{
-    padding-top: 500px;
-}
-footer{
-    display: flex;
-    width: 20px;
-    height: 300px;
 
 
-}

@@ -1,26 +1,26 @@
-# Author name
+## Author name
  
  Alex Gikungu 
- # Project name
+ ## Project name
   Rocarstor Carwebsite 
 
- # Description
+ ## Description
  this is a carwebsite that show the type of cars sold by Rocarstor.
  it also contains different services and cars that are stocked by Rocarstor dealers and services that they offer such as :
                                               car rentals .
                                               car sales
 
- # Project Design
- - ![](/design.png)                                                                           
- # project set up instruction
+ ## Project Design
+ - ![](design.png)                                                                           
+ ## project set up instruction
    Run 'https://github.com/Alex-gikungu/CarWebsite'
     After cloning,open the project vs and modify it to your link.
  ## live link 
   - https://alex-gikungu.github.io/CarWebsite/
- # Authors information
+ ## Authors information
  slack Profile-Alex-gikungu
   email:alexigikungu.012@gmail.com
-   # license 
+   ## license 
    The MIT license (MIT)
    
 Copyright (c) 2023 Alex Gikungu

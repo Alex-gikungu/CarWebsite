@@ -1,120 +1,43 @@
- <div class="images">
-      <h4><strong> Mercedes Benz C</strong></h4>
-      <img src="Rectangle 4.png">
-      <p><button class="cn"><a href="benz c">Get More info</a></button></p>
-    </div>
+# Author name
+ 
+ Alex Gikungu 
+ # Project name
+  A Carwebsite 
 
-     <div class="images">
-      <h4><strong> Mercedes Benz G</strong></h4>
-      <img src="Rectangle 5.png">
-      <p><button class="cn"><a href="benz c">Get More info</a></button></p>
-     </div>
+ # Description
+ this is a carwebsite that show the type of cars sold by Rocarstor.
+ it also contains different services and cars that are stocked by Rocarstor dealers and services that they offer such as :
+                                              car rentals .
+                                              car sales.
+ # project set up instruction
+   Run 'https://github.com/Alex-gikungu/CarWebsite'
+    After cloning,open the project vs and modify it to your link.
+ ## live link 
+  - https://alex-gikungu.github.io/CarWebsite/
+ # Authotrs information
+ slack Profile-Alex-gikungu
+  email:alexigikungu.012@gmail.com
+   # license 
+   The MIT license (MIT)
+    
+Copyright (c) 2023 Alexi-gikungu
 
-     <div class="images">
-      <h4><strong> Mercedes Benz G</strong></h4>
-      <img src=" Rectangle 6.png ">
-      <p><button class="cn"><a href="benz c">Get More info</a></button></p>
-     </div>
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of this software and associated documentation files (the
+"Software"), to deal in the Software without restriction, including
+without limitation the rights to use, copy, modify, merge, publish,
+distribute, sublicense, and/or sell copies of the Software, and to
+permit persons to whom the Software is furnished to do so, subject to
+the following conditions:
 
-      <div class="images">
-      <h4><strong>Lorenzo Marcinno</strong></h4>
-      <img src="Rectangle 4-1.png">
-      <p><button class="cn"><a href="benz c">Get More info</a></button></p>
-      </div>
+The above copyright notice and this permission notice shall be
+included in all copies or substantial portions of the Software.
 
-      <div class="images">
-      <h4><strong>Limousine</strong></h4>
-      <img src="Rectangle 5-1.png">
-      <p><button class="cn"><a href="benz c">Get More info</a></button></p>
-    </div>
-
-      <div class="images">
-      <h4><strong>Mercedes Benz E</strong></h4>
-      <img src="Rectangle 6-1.png">
-<p><button class="cn"><a href="benz c">Get More info</a></button></p>
-      </div>
-
-      
-           <h2>Happy Clients </h2>
-            <p><strong>Our goal is to meet your desires of owning a car</strong></p>
-           
-           
-<div class="client"> 
-    <div class="cli">     
-         <img src="image 8.png">
-         <p>I had a wonderful experience renting a car from this website ! The process was easy and hassle-free,and the car was  in great condition.</p>
-         <br>
-         <br>
-         <h3><strong>john M</h3></div>
-        
-            <div class="cli">
-            <img src="image 8.png">
-            <p>The customer service was excellent as well the staff was friendly and professional,and they went above and beyond to ensure that i had a positive rental experience .</p>
-        <br>
-        <br>
-            <h3><strong>kip T</strong></h3></div>
-        
-            <div class="cli">
-            <img src="image 8.png ">
-            <p>I would definitely recommend this car rental service to anyone looking for a reliable and convenient way to travel .</p> 
-       <br><br>
-            <h3><strong> Neema M</strong></h3></div>
-        
-        
-        </div>
-        <div class="mos">
-        <img src="  car-rental 1 (1).png  "></div>
-
-
-            <div class="store">
-             <h3>Download the free<br>Rocarster App</h3>
-            <p>for faster,easier bookings and exclusive deals.</p>
-             
-            <div class="pg">
-            <img src=" App store (2).png ">
-            </div>
-
-            <div class="mages">
-            <img src="Google play store.png"></div>
-
-         </div>
-<div class="gh">
-<div class="pro">
-    <h2>Our Products </h2>
-    <ol>
-<li>Car Rental</li>
-<li>Car Sales</li>
-<li>Car Services</li>
- <li>Car Cleaning </li>
- <li>Park Tour</li>
-    </ol></div>
-    <div class="two"> 
-    <h2>About Rocarstor</h2>  
-    <ol>
-     <li>Why Us</li>
-     <li>Our Journey</li>
-     <li>Services</li>
-     <li>Testimonials</li>
-     <li>Subscription</li>
-    </ol></div>
-<div class="three">
-    <h2>Resources</h2>  
-    <ol>
-     <li>Downloads</li>
-     <li>Help center</li>
-     <li>Guides</li>
-     <li>Rental deals </li>
-     <li>New offers</li>
-     <li>Bookings</li>
-    </ol></div>
-</div>
-<div class="four">
-    <h2>subscribe to services</h2>
-    <ol>
-    <li>Name </li>
-    <li>Email address</li>
-    <li>Submit</li>
-    </ol> ..>
-</div>
-</div>
-</div>
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
+LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
+OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+ 

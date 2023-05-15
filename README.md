@@ -10,9 +10,8 @@
                                               car rentals .
                                               car sales
 
- # project Design
-
-    -![] (Landing-page (1).)png                                                                                  
+ # Project Design
+ - ![](/design.png)                                                                           
  # project set up instruction
    Run 'https://github.com/Alex-gikungu/CarWebsite'
     After cloning,open the project vs and modify it to your link.
